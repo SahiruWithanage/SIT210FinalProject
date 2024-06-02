@@ -2,8 +2,8 @@
 #include <WiFiClient.h>
 #include <I2S.h>
 
-const char* ssid   = "SLT FIBER WIFI";
-const char* password = "0772328819";
+const char* ssid   = "";
+const char* password = "";
 
 const char* server = "192.168.1.6";
 const int port = 5000;
